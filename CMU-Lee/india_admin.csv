@@ -1,0 +1,43 @@
+code,administrative units,capital,area insq.km.,population2001-03-01census,population2011-03-01census,level
+35 »,Andaman & Nicobar Islands (UT),Port Blair,"8,249","356,152","380,581",level2
+28 »,"Andhra Pradesh, state",Hyderabad,"160,205","45,222,736","49,386,799",level2
+12 »,"Arunachal Pradesh, state",Itanagar,"83,743","1,097,968","1,383,727",level2
+18 »,"Assam, state",Dispur,"78,438","26,655,528","31,205,576",level2
+10 »,"Bihar, state",Patna,"94,163","82,998,509","104,099,452",level2
+04,Chandigarh (UT),Chandigarh,114,"900,635","1,055,450",level2
+22 »,"Chhattisgarh, state",Raipur,"135,191","20,833,803","25,545,198",level2
+26,Dadra & Nagar Haveli (UT),Silvassa,491,"220,490","343,709",level2
+25 »,Daman & Diu (UT),Daman,111,"158,204","243,247",level2
+30 »,"Goa, state",Panaji,"3,702","1,347,668","1,458,545",level2
+24 »,"Gujarat, state",Gandhinagar,"196,244","50,671,017","60,439,692",level2
+06 »,"Haryana, state",Chandigarh,"44,212","21,144,564","25,351,462",level2
+02 »,"Himachal Pradesh, state",Simla,"55,673","6,077,900","6,864,602",level2
+01 »,"Jammu & Kashmir, state",Srinagar,"222,236","10,143,700","12,541,302",level2
+20 »,"Jharkhand, state",Ranchi,"79,716","26,945,829","32,988,134",level2
+29 »,"Karnataka, state",Bangalore,"191,791","52,850,562","61,095,297",level2
+32 »,"Kerala, state",Thiruvananthapuram,"38,852","31,841,374","33,406,061",level2
+31,Lakshadweep (UT),Kavaratti,30,"60,650","64,473",level2
+23 »,"Madhya Pradesh, state",Bhopal,"308,252","60,348,023","72,626,809",level2
+27 »,"Maharashtra, state",Mumbai,"307,713","96,878,627","112,374,333",level2
+14 »,"Manipur, state",Imphal,"22,327","2,293,896","2,855,794",level2
+17 »,"Meghalaya, state",Shillong,"22,429","2,318,822","2,966,889",level2
+15 »,"Mizoram, state",Aizawl,"21,081","888,573","1,097,206",level2
+13 »,"Nagaland, state",Kohima,"16,579","1,990,036","1,978,502",level2
+07 »,NCT of Delhi (UT),Delhi,"1,483","13,850,507","16,787,941",level2
+21 »,"Odisha, state",Bhubaneswar,"155,707","36,804,660","41,974,218",level2
+34 »,Puducherry (UT),Puducherry,490,"974,345","1,247,953",level2
+03 »,"Punjab, state",Chandigarh,"50,362","24,358,999","27,743,338",level2
+08 »,"Rajasthan, state",Jaipur,"342,239","56,507,188","68,548,437",level2
+11 »,"Sikkim, state",Gangtok,"7,096","540,851","610,577",level2
+33 »,"Tamil Nadu, state",Chennai,"130,060","62,405,679","72,147,030",level2
+xx »,"Telangana, state",Hyderabad,"114,840","30,987,271","35,193,978",level2
+16 »,"Tripura, state",Agartala,"10,486","3,199,203","3,673,917",level2
+09 »,"Uttar Pradesh, state",Lucknow,"240,928","166,197,921","199,812,341",level2
+05 »,"Uttarakhand, state",Dehra Dun,"53,483","8,489,349","10,086,292",level2
+19 »,"West Bengal, state",Calcutta,"88,752","80,176,197","91,276,115",level2
+ ,total, ,"3,287,469","1,028,610,328","1,210,854,977",total
+"
+		source:  The Office of Registrar General & Census Commissioner of India.
+		note:  Chandigarh is both the capital of Haryana and Punjab, and a separate Union Territory of itself.
+		note:  On June 2 2014, Telangana State was created, consisting of districts previously part of Andhra Pradesh State. For a period of time Hyderabad will act as capital for both.
+		note:  UT - Union Territory.",foot
